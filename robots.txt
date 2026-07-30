@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chhavagraphics.vercel.app/sitemap.xml
+Sitemap: https://chhava-graphics.vercel.app/sitemap.xml
